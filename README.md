@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Rodriguez 
-- 👀 I’m interested in programming and learn all in this space 
+- 👀 I’m interested in programming, videogames and machine learning
 - 🌱 I’m currently learning HTML, CSS, JavaScript, python and starting with React 
 - 📫 How to reach me martinrodriguezdev96@gmail.com
 - 😄 Pronouns: Tino 😄 

@@ -9,7 +9,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning python django & PostgreSQL.
-- 💁‍♂️ Making a lot personal of proyects to keep learning.
+- 💁‍♂️ Making a lot personal proyects to keep learning.
 - 🎮 VideoGames lover.                                
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio]() for more details about me.           

@@ -2,9 +2,9 @@
 
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, REST API and Data Visualization.</p>  
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="170" align="left"/> 
+<br>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="240" align="left"/> 
 
 
 - ✨ Student of life :)
@@ -18,10 +18,10 @@
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-<p align="center"><img width="400px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,django,postgres,mongo,git,vscode,docker,postman,&perline=10"/></p>
+<p align="center"><img width="600px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,express,django,postgres,mongo,git,vscode,docker,postman,&perline=10" align="center"/></p>
 
 
-## 📬 Contact me
+## Contact me 📬 
 
 <p align=center>
     <a href="https://github.com/Artarexces" target="_blank">
@@ -30,13 +30,12 @@
     <a href="https://www.linkedin.com/in/martin-rodriguez-a71748342/" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:martinrodriguezdev96@gmail.com
-" target="_blank">
+    <a href="mailto:martinrodriguezdev96@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100" align="right"  />

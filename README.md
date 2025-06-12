@@ -40,9 +40,3 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100" align="right"  />
-
-
-<!---
-Artarexces/Artarexces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

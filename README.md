@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Martin Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>   
 
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, REST API and Data Visualization.</p>  
+<p align="center">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, REST API and Data Visualization.</p>  
 
 <br>
 

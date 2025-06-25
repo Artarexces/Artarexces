@@ -33,7 +33,7 @@
     <a href="https://www.linkedin.com/in/martin-rodriguez-a71748342/" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <a href="mailto:martinrodriguezdev96@gmail.com" target="_blank">
+    <a href="mailto: martinrodriguezdev96@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>

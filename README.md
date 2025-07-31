@@ -7,8 +7,8 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="240" align="left"/> 
 
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning React native & mobile development.
+- 🤓 All time studyng
+- 📲 I’m currently learning React native & mobile development.
 - 💁‍♂️ Making a lot personal proyects to keep learning.
 - 🎮 VideoGames lover.                                
 - ❤ Contributing to Open Source.

@@ -8,7 +8,7 @@
 
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning python django & PostgreSQL.
+- 🌱 I’m currently learning React native & mobile development.
 - 💁‍♂️ Making a lot personal proyects to keep learning.
 - 🎮 VideoGames lover.                                
 - ❤ Contributing to Open Source.

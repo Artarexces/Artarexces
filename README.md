@@ -11,7 +11,6 @@
 - 📲 I’m currently learning React native & mobile development.
 - 💁‍♂️ Making a lot personal proyects to keep learning.
 - 🎮 VideoGames lover.                                
-- ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio]() for more details about me.           
 
 <br>  

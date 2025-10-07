@@ -11,7 +11,7 @@
 - 📲 I’m currently learning React native & mobile development.
 - 💁‍♂️ Making a lot personal proyects to keep learning.
 - 🎮 VideoGames lover.                                
-- 💻 Visit my [Portfolio](https://portfolio-v01-delta.vercel.app/) for more details about me.           
+- 💻 Visit my [Portfolio](https://portfolio-v03-eight.vercel.app/) for more details about me.           
 
 <br>  
 

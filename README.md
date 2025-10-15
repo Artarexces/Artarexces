@@ -8,7 +8,7 @@
 
 
 - 🤓 All time studyng
-- 📲 I’m currently learning React native & mobile development.
+- 📲 I’m currently learning NestJS.
 - 💁‍♂️ Making a lot personal proyects to keep learning.
 - 🎮 VideoGames lover.                                
 - 💻 Visit my [Portfolio](https://portfolio-v03-eight.vercel.app/) for more details about me.           
@@ -20,7 +20,7 @@
 
 # Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-<p align="center"><img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,express,nodejs,nextjs,tailwind,django,mysql,mongo,git,vscode,postman,npm,bun,&perline=10" align="center"/></p>
+<p align="center"><img width="500px" src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,express,nodejs,nextjs,tailwind,django,mysql,mongo,git,vscode,postman,npm,nestjs,&perline=10" align="center"/></p>
 
 
 ## Contact me 📬 

@@ -9,7 +9,7 @@
 
 - 🤓 All time studyng
 - 📲 I’m currently learning NestJS.
-- 💁‍♂️ Making a lot personal proyects to keep learning.
+- 💁‍♂️ Makeing proyects to keep learning.
 - 🎮 VideoGames lover.                                
 - 💻 Visit my [Portfolio](https://portfolio-v03-eight.vercel.app/) for more details about me.           
 
